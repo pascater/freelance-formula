@@ -529,6 +529,7 @@ a:hover {
 }
 #pricing-table3-2 .mbr-plan-title B {
   color: #2b4484;
+  font-size: 36px;
 }
 #pricing-table3-2 .mbr-price-figure {
   color: #ffffff;
@@ -541,7 +542,7 @@ a:hover {
   font-size: 23px;
 }
 #pricing-table3-2 .mbr-section__container .mbr-section-title B {
-  color: #742282;
+  color: #1f8068;
 }
 #pricing-table3-2 .mbr-plan-price-desc {
   text-align: left;

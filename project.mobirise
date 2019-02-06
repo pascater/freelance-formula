@@ -125,7 +125,7 @@
           "_params": {
             "showTitle": true,
             "showSubtitle": false,
-            "showIcons": false,
+            "showIcons": true,
             "firstType": "",
             "secondType": "",
             "thirdType": "primary",
@@ -187,7 +187,8 @@
               "color": "#ecf544"
             },
             ".mbr-plan-title B": {
-              "color": "#2b4484"
+              "color": "#2b4484",
+              "font-size": "36px"
             },
             ".mbr-price-figure": {
               "color": "#ffffff"
@@ -200,7 +201,7 @@
               "font-size": "23px"
             },
             ".mbr-section__container .mbr-section-title B": {
-              "color": "#742282"
+              "color": "#1f8068"
             },
             ".mbr-plan-price-desc": {
               "text-align": "left"
