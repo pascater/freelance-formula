@@ -21,14 +21,15 @@
       },
       "additionalSetColors": [
         "#ffffff",
-        "#ecf544"
+        "#ecf544",
+        "#1e3b83"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
     "uniqCompNum": 31,
-    "versionPublish": "4.8.10",
+    "versionPublish": "4.9.1",
     "screenshot": "screenshot.png"
   },
   "pages": {
@@ -46,7 +47,7 @@
           "_params": {
             "showText": false,
             "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "bgColor": "#ffffff"
           },
           "media": {
@@ -132,7 +133,7 @@
             "fourthType": "hidden",
             "bgColor1": "#bdb39a",
             "bgColor2": "#bb8c2e",
-            "paddingTop": "4",
+            "paddingTop": "3",
             "paddingBottom": "4",
             "showButtons": true,
             "bgImageRadio": false,
@@ -151,7 +152,7 @@
           "title": "<b>Le nostre Formule</b>",
           "subtitle": "",
           "title1": "<b>Silver</b>",
-          "title2": "<b>Gold</b>",
+          "title2": "<b>Gol</b><b>d</b>",
           "title3": "<b>Platinum</b>",
           "title4": "Ultimate",
           "price1": "<b>997</b>",
@@ -187,8 +188,8 @@
               "color": "#ecf544"
             },
             ".mbr-plan-title B": {
-              "color": "#2b4484",
-              "font-size": "36px"
+              "color": "#1e3b83",
+              "font-size": "46px"
             },
             ".mbr-price-figure": {
               "color": "#ffffff"
@@ -201,7 +202,7 @@
               "font-size": "23px"
             },
             ".mbr-section__container .mbr-section-title B": {
-              "color": "#1f8068"
+              "color": "#bb412e"
             },
             ".mbr-plan-price-desc": {
               "text-align": "left"
