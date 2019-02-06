@@ -28,7 +28,8 @@
     "versionFirst": "4.8.10",
     "siteFonts": [],
     "uniqCompNum": 31,
-    "versionPublish": "4.8.10"
+    "versionPublish": "4.8.10",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -45,13 +46,13 @@
           "_params": {
             "showText": false,
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgColor": "#ffffff"
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/freelance-program-assidigital-1400x878.png",
+              "src": "@PROJECT_PATH@/assets/images/freelance-program-assidigital-freccia-giu-1400x878.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -165,9 +166,9 @@
           "description2": "",
           "description3": "",
           "description4": "One week free",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b><i>Installazione Funnel\n</i></b></li><li class=\"list-group-item\"><b><i>Leads quotidiani\n</i></b></li><li class=\"list-group-item\"><b><i>Tecnica per fissare appuntamento</i></b></li></ul>",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b><i>Installazione Funnel\n</i></b></li><li class=\"list-group-item\"><b><i>Leads quotidiani&nbsp;</i></b></li><li class=\"list-group-item\"><b><i>Tecnica per fissare appuntamento\n</i></b></li><li class=\"list-group-item\"><b><i>Corso Vendita completo\n</i></b></li><li class=\"list-group-item\"><b><i>Sito internet + Social\n</i></b></li><li class=\"list-group-item\"><b><i>Corso base Digital Marketing</i></b></li></ul>",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Installazione Funnel\n</b></li><li class=\"list-group-item\"><b>Leads quotidiani\n</b></li><li class=\"list-group-item\"><b>Tecniche per fissare appuntamenti\n</b></li><li class=\"list-group-item\"><b>Formazione in aula\n</b></li><li class=\"list-group-item\"><b>Corso Vendita \"Top\"\n</b></li><li class=\"list-group-item\"><b>Sito internet + Social\n</b></li><li class=\"list-group-item\"><b>Corso Digital Marketing \"Full\"\n</b></li><li class=\"list-group-item\"><b>Software vendita Plus35\n</b></li><li class=\"list-group-item\"><b>Supporto dedicato\n</b></li><li class=\"list-group-item\"><b>Mandati con provv. 90%\n</b></li><li class=\"list-group-item\"><b>Esclusiva di zona + uso brand</b></li></ul>",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b><i>Installazione Funnel completo</i></b></li><li class=\"list-group-item\"><b><i>Leads (contatti interessati) quotidiani\n</i></b></li><li class=\"list-group-item\"><b><i>Tecnica telefonica per fissare appuntamenti</i></b></li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b><i>Installazione Funnel completo</i></b></li><li class=\"list-group-item\"><b><i>Leads (contatti interessati) quotidiani</i></b></li><li class=\"list-group-item\"><b><i>Metodo full per fissare appuntamenti + vendita</i></b></li><li class=\"list-group-item\"><b><i>Corso Vendita completo\n</i></b></li><li class=\"list-group-item\"><b><i>Sito internet + Social\n</i></b></li><li class=\"list-group-item\"><b><i>Corso base Digital Marketing</i></b></li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b><i>Installazione 2 Funnel completi + Marketing Automation</i></b></li><li class=\"list-group-item\"><b><i>Leads (contatti interessati) quotidiani</i></b></li><li class=\"list-group-item\"><b><i>Metodo \"Advanced\" per fissare appuntamento + vendita</i></b></li><li class=\"list-group-item\"><b><i>Formazione \"Executive\" in aula\n</i></b></li><li class=\"list-group-item\"><b><i>Corso Vendita \"Top\"\n</i></b></li><li class=\"list-group-item\"><b><i>Sito internet + Social</i></b></li><li class=\"list-group-item\"><b><i>Corso Digital Marketing \"Full\"\n</i></b></li><li class=\"list-group-item\"><b><i>Software vendita \"Plus35\" IDD</i></b></li><li class=\"list-group-item\"><b><i>Supporto dedicato 9/18</i></b></li><li class=\"list-group-item\"><b><i>Mandati con provv. 90%\n</i></b></li><li class=\"list-group-item\"><b><i>Esclusiva di zona + uso Brand</i></b></li></ul>",
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Mobirise horizontal navigation menu collapses on devices to a single-icon mobile menu, also know as \"hamburger menu\", for a flawless mobile experience for all visitors.</li><li class=\"list-group-item\">Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.</li><li class=\"list-group-item\">20 GB bandwidth</li></ul>",
           "button1": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSeGjoB_mR-ppUk-lKnMZazCAQPpm-uoBJgkC2Zbv9KKkhxRzA/viewform\" class=\"btn btn-lg btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Scopri di più</a> ",
           "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSeGjoB_mR-ppUk-lKnMZazCAQPpm-uoBJgkC2Zbv9KKkhxRzA/viewform\" class=\"btn btn-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Scopri di più</a>",
