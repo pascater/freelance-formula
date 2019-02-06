@@ -27,7 +27,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 30,
+    "uniqCompNum": 31,
     "versionPublish": "4.8.10"
   },
   "pages": {
@@ -131,7 +131,7 @@
             "fourthType": "hidden",
             "bgColor1": "#bdb39a",
             "bgColor2": "#bb8c2e",
-            "paddingTop": "3",
+            "paddingTop": "4",
             "paddingBottom": "4",
             "showButtons": true,
             "bgImageRadio": false,
@@ -200,13 +200,16 @@
             },
             ".mbr-section__container .mbr-section-title B": {
               "color": "#2b4484"
+            },
+            ".mbr-plan-price-desc": {
+              "text-align": "left"
             }
           }
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
           "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Cifra iniziale fissa una tantum + \"extra\" mensili relativi ad acquisto traffico ed expertise senza nessun obbligo di durata",
@@ -218,8 +221,8 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "3",
+            "paddingBottom": "0",
             "showHeading": true,
             "showTitle": true,
             "showText": false,

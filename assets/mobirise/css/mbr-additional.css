@@ -543,6 +543,9 @@ a:hover {
 #pricing-table3-2 .mbr-section__container .mbr-section-title B {
   color: #2b4484;
 }
+#pricing-table3-2 .mbr-plan-price-desc {
+  text-align: left;
+}
 #form1-a .form {
   background: #fafbfc;
 }
