@@ -199,7 +199,7 @@
               "font-size": "23px"
             },
             ".mbr-section__container .mbr-section-title B": {
-              "color": "#2b4484"
+              "color": "#742282"
             },
             ".mbr-plan-price-desc": {
               "text-align": "left"
