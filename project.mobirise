@@ -165,7 +165,7 @@
           "period4": "$/monthly",
           "description1": "",
           "description2": "",
-          "description3": "",
+          "description3": "<b><i>Formula &nbsp;Franchising</i></b>",
           "description4": "One week free",
           "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b><i>Installazione Funnel completo</i></b></li><li class=\"list-group-item\"><b><i>Leads (contatti interessati) quotidiani\n</i></b></li><li class=\"list-group-item\"><b><i>Tecnica telefonica per fissare appuntamenti</i></b></li></ul>",
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b><i>Installazione Funnel completo</i></b></li><li class=\"list-group-item\"><b><i>Leads (contatti interessati) quotidiani</i></b></li><li class=\"list-group-item\"><b><i>Metodo full per fissare appuntamenti + vendita</i></b></li><li class=\"list-group-item\"><b><i>Corso Vendita completo\n</i></b></li><li class=\"list-group-item\"><b><i>Sito internet + Social\n</i></b></li><li class=\"list-group-item\"><b><i>Corso base Digital Marketing</i></b></li></ul>",
@@ -205,7 +205,10 @@
               "color": "#bb412e"
             },
             ".mbr-plan-price-desc": {
-              "text-align": "left"
+              "text-align": "center"
+            },
+            ".mbr-plan-price-desc I": {
+              "font-size": "20px"
             }
           }
         },
