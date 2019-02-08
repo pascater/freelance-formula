@@ -208,7 +208,8 @@
               "text-align": "center"
             },
             ".mbr-plan-price-desc I": {
-              "font-size": "20px"
+              "font-size": "22px",
+              "color": "#fffffd"
             }
           }
         },

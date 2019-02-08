@@ -548,7 +548,8 @@ a:hover {
   text-align: center;
 }
 #pricing-table3-2 .mbr-plan-price-desc I {
-  font-size: 20px;
+  font-size: 22px;
+  color: #fffffd;
 }
 #form1-a .form {
   background: #fafbfc;
